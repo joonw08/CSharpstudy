@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\bin\Debug\net6.0\Csharpstudy.exe
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\bin\Debug\net6.0\Csharpstudy.deps.json
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\bin\Debug\net6.0\Csharpstudy.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\bin\Debug\net6.0\Csharpstudy.dll
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\bin\Debug\net6.0\Csharpstudy.pdb
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\obj\Debug\net6.0\Csharpstudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\obj\Debug\net6.0\Csharpstudy.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\obj\Debug\net6.0\Csharpstudy.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\obj\Debug\net6.0\Csharpstudy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\obj\Debug\net6.0\Csharpstudy.dll
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\obj\Debug\net6.0\refint\Csharpstudy.dll
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\obj\Debug\net6.0\Csharpstudy.pdb
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\obj\Debug\net6.0\Csharpstudy.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\CSharpstudy\Csharpstudy\obj\Debug\net6.0\ref\Csharpstudy.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CSharpstudy\\Csharpstudy\\Csharpstudy.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpstudy\\Csharpstudy\\Csharpstudy.csproj",
       "projectName": "Csharpstudy",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\CSharpstudy\\Csharpstudy\\Csharpstudy.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpstudy\\Csharpstudy\\Csharpstudy.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\CSharpstudy\\Csharpstudy\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpstudy\\Csharpstudy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
